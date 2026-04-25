@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "chrome-devtools"
+  ],
+  "disabledMcpjsonServers": [
+    "awslabs.cdk-mcp-server",
+    "playwright",
+    "posthog"
+  ]
+}
